@@ -1,0 +1,40 @@
+body{
+    background-image: url(reg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1450px 800px;
+}
+form{
+    border: solid 1px white;
+    width: 500px;
+    background-color:rgba(226, 171, 171, 0.637);
+    margin-left: 100px;
+    margin-top: 90px;
+}
+h1{
+    text-align: center;
+    color: rgb(110, 17, 17);
+    font-size: 33px;
+}
+label{
+    font-size: 15px;
+    color: rgb(4, 66, 60);
+    font-weight: bold;
+    margin-left: 50px;
+}
+input{
+    width: 300px;
+    height: 35px;
+    margin-left: 50px;
+}
+button{
+    width: 150px;
+    height: 25px;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 10px;
+    margin-left: 140px;
+}
+p{
+    color: rgb(90, 44, 10);
+ font-size: 20px;
+}
